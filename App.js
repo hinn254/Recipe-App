@@ -7,7 +7,7 @@ export default function App() {
     <View>
       <View style={styles.container}>
         <Text style={{ fontSize: 34 }}>Orange </Text>
-        <Text>I love Hiking</Text>
+        <Text>I love Playinh</Text>
         <StatusBar style="auto" />
       </View>
       <View style={styles.container}>
